@@ -1,4 +1,4 @@
 # Desarrollo de Proyectos Software
-
-## Miguel Angel
+Víctor Ruiz Amor
+Miguel Angel
 
