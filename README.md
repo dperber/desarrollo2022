@@ -2,3 +2,4 @@
 ## Víctor Ruiz Amor
 ## Miguel Angel
 ## Emil Ekholdt Huynh
+## Gabriel Segado Moreno
